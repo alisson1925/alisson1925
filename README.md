@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jhonathaan1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonathaan1&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonathaan1&hide=javascript,html)
+![alisson1925 GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson1925&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson1925&hide=javascript,html)
 
 <h3>Tecnologias que eu Uso</h3>
 
