@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![alisson1925 GitHub stats](https://github-readme-stats.vercel.app/api?username=alisson1925&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisson1925&hide=javascript,html)
+
 
 <h3>Tecnologias que eu Uso</h3>
 
