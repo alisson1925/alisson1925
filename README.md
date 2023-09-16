@@ -14,4 +14,4 @@
 
 </div><br>
 
-Cursando 3º Período da faculdade, Apaixomado por Técnologia.
+Cursando 3º Período da faculdade, Apaixonado por Técnologia.
