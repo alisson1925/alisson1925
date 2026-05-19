@@ -1,64 +1,97 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0f172a,100:111827&text=ALISSON%20RODRIGUES&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE%20%E2%80%A2%20SQL%20%E2%80%A2%20POWER%20BI%20%E2%80%A2%20PYTHON&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,20:0b1220,50:0f172a,100:111827&text=ALISSON%20RODRIGUES&fontSize=44&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20DATA%20ENGINEERING%20FOUNDATION&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Transformando+dados+em+insights+estrat%C3%A9gicos;Business+Intelligence+e+An%C3%A1lise+de+Dados;Dashboards+Executivos+e+KPIs+corporativos;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+ETL"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=1000&lines=Data+Analytics+%26+Business+Intelligence+Focused;Building+end-to-end+data+solutions+with+SQL+%26+Python;Developing+dashboards+and+KPIs+for+decision-making;Turning+raw+data+into+business+insights"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre Mim
+# 👨‍💻 PERFIL PROFISSIONAL
 
-Cursando **Ciência da Computação**, com foco em desenvolvimento de carreira na área de **Data Analytics e Business Intelligence**.
+Cursando **Ciência da Computação**, com foco estruturado em **Data Analytics e Business Intelligence**.
 
-Tenho trabalhado em projetos práticos envolvendo análise de dados, construção de dashboards e automação de processos utilizando ferramentas modernas do ecossistema de dados.
+Atuo no desenvolvimento de projetos práticos envolvendo análise de dados, modelagem de informações e construção de dashboards executivos, utilizando tecnologias amplamente adotadas no mercado.
 
-Meu objetivo é transformar dados em informações claras, confiáveis e estratégicas para apoiar a tomada de decisão em ambientes corporativos.
+Minha atuação é orientada à transformação de dados em insights estratégicos para suporte à tomada de decisão.
 
 ---
 
-# 🚀 Habilidades
+# 🧭 FOCO PROFISSIONAL
 
-## 📊 Análise de Dados & BI
-- Business Intelligence (BI)
-- Data Analytics
-- KPI Monitoring
-- Dashboards Executivos
-- Data Visualization
-- Relatórios Analíticos
+- Análise de Dados aplicada a negócios
+- Desenvolvimento de dashboards executivos
+- Estruturação e modelagem de KPIs
+- Processos de ETL e tratamento de dados
+- Automação de análises com Python
+- Consultas analíticas com SQL
+- Visualização de dados com Power BI
 
-## 🧠 Linguagens
-- Python
-- SQL (SQL Server)
+---
+
+# 🧠 COMPETÊNCIAS TÉCNICAS
+
+## Linguagens & Análise
+- Python (Pandas, automação de análise)
+- SQL (SQL Server, consultas analíticas avançadas)
 - DAX (Power BI)
-- HTML
-- CSS
-- JavaScript (básico)
-
-## 🗄️ Banco de Dados
-- SQL Server
-- Modelagem de dados
-- Consultas avançadas (JOIN, CTE, Window Functions)
-- Análise de dados estruturados
-
-## ⚙️ Engenharia de Dados (Fundamentos)
-- ETL (Extract, Transform, Load)
-- Limpeza e tratamento de dados
-- Automação de processos com Python
-- Integração de dados
-
-## 📈 Ferramentas
-- Power BI
 - Excel Avançado
+
+## Engenharia de Dados (Fundamentos)
+- ETL (Extract, Transform, Load)
+- Limpeza e padronização de dados
+- Integração de fontes de dados
+- Estruturação de pipelines simples
+
+## Business Intelligence
+- Desenvolvimento de dashboards executivos
+- Criação de KPIs estratégicos
+- Data storytelling
+- Análise de performance
+
+## Banco de Dados
+- SQL Server
+- Modelagem relacional básica
+- CTEs e Window Functions
+- Queries analíticas
+
+## Ferramentas
+- Power BI
 - Git / GitHub
 - VS Code
-- Figma (básico)
-- Linux (básico)
+- Figma (UI básico)
+- Linux (nível básico operacional)
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 PROJETOS EM DESENVOLVIMENTO
+
+## 📈 Dashboard Executivo de Vendas
+Projeto focado em análise de performance comercial e indicadores estratégicos.
+
+**Stack:** Power BI • SQL Server • DAX  
+**Objetivo:** Estruturação de KPIs de vendas e análise de performance
+
+---
+
+## ⚙️ Pipeline de Dados com Python
+Processo de automação para tratamento e análise de dados.
+
+**Stack:** Python • Pandas • SQL  
+**Objetivo:** Automação de processos de ETL e geração de insights
+
+---
+
+## 🗄️ SQL Analytics para Negócios
+Análises avançadas com foco em suporte à decisão.
+
+**Stack:** SQL Server • T-SQL  
+**Objetivo:** Construção de queries analíticas e KPIs
+
+---
+
+# 📊 GITHUB METRICS
 
 <div align="center">
 
@@ -74,40 +107,15 @@ Meu objetivo é transformar dados em informações claras, confiáveis e estrat�
 
 ---
 
-# 🚀 Projetos em Destaque
-
-## 📈 Dashboard Executivo de Vendas
-Análise de performance comercial com foco em KPIs estratégicos.
-
-**Tecnologias:** Power BI • SQL Server • DAX  
-**Foco:** Receita, conversão, ticket médio e crescimento
-
----
-
-## ⚙️ Pipeline ETL com Python
-Automação de extração, transformação e carga de dados.
-
-**Tecnologias:** Python • Pandas • SQL  
-**Foco:** Processamento e tratamento de dados
-
----
-
-## 🗄️ SQL Analytics
-Análises avançadas para suporte à decisão.
-
-**Tecnologias:** SQL Server • T-SQL  
-**Foco:** KPIs, consultas analíticas e relatórios
-
----
-
-# 🎯 Foco Atual
+# 🎯 DIREÇÃO ATUAL
 
 ```text
-✔ Business Intelligence
-✔ Power BI Dashboards
-✔ SQL para Análise de Dados
-✔ Python para Automação
-✔ ETL e Tratamento de Dados
-⬜ Engenharia de Dados
-⬜ Cloud Analytics
-⬜ Machine Learning
+■ Business Intelligence
+■ Data Analytics
+■ SQL para análise de dados
+■ Power BI (dashboards executivos)
+■ Python aplicado a dados
+■ ETL e modelagem de dados
+□ Data Engineering (em evolução)
+□ Cloud Analytics
+□ Machine Learning
