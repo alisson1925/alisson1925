@@ -1,23 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0f172a,100:111827&text=ALISSON%20RODRIGUES&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%E2%80%A2%20BUSINESS%20INTELLIGENCE%20%E2%80%A2%20PYTHON%20%E2%80%A2%20SQL&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,50:0f172a,100:111827&text=ALISSON%20RODRIGUES&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%E2%80%A2%20BUSINESS%20INTELLIGENCE%20%E2%80%A2%20POWER%20BI%20%E2%80%A2%20SQL&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas;Business+Intelligence+%26+Data+Analytics;Dashboards+Executivos+e+KPIs+Corporativos;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+ETL"/>
-
-<br>
-
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Transformando+dados+em+insights+estrat%C3%A9gicos;Business+Intelligence+e+An%C3%A1lise+de+Dados;Dashboards+Executivos+e+KPIs+Corporativos;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+%E2%80%A2+ETL"/>
 
 <br>
 
-<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2h2Y3k5cDlyN2E4aHZhZXN4aTFvOGs0Z3d5eWZ6OHQ4ZWx0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
 
-<img src="https://img.shields.io/badge/Data_Analytics-38BDF8?style=for-the-badge"/>
+<br>
+<br>
+
+<img src="https://img.shields.io/badge/Data_Analytics-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Business_Intelligence-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL_Analytics-CC2927?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
+<img src="https://img.shields.io/badge/SQL_Analytics-1D4ED8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-FACC15?style=for-the-badge&logo=powerbi&logoColor=000"/>
 
 </div>
 
@@ -25,24 +22,26 @@
 
 # 👨‍💻 Sobre Mim
 
-Profissional em formação na área de **Data Analytics** e **Business Intelligence**, focado em transformar dados em insights estratégicos para ambientes corporativos modernos.
+Cursando **Ciência da Computação** e direcionando minha trajetória para as áreas de **Data Analytics** e **Business Intelligence**, venho desenvolvendo projetos voltados à análise estratégica de dados, dashboards executivos e automação de processos orientados ao ambiente corporativo.
 
-Atualmente cursando **Ciência da Computação**, atuando no desenvolvimento de soluções orientadas a dados utilizando:
+Minha evolução na área de tecnologia foi construída através de estudos contínuos, prática com projetos próprios e desenvolvimento de soluções utilizando **Power BI**, **SQL Server** e **Python**, sempre buscando transformar dados em informações úteis para apoio à tomada de decisão.
 
-* Power BI
-* SQL Server
-* Python
-* ETL
-* Dashboards Executivos
+Além da parte analítica, também possuo conhecimentos em infraestrutura, hardware e suporte computacional, adquiridos através de experiências práticas e contato constante com ambientes tecnológicos.
+
+Atualmente, concentro meus estudos e projetos em:
+
+* Business Intelligence
+* Análise de Dados
+* SQL para negócios
+* ETL e processamento de dados
+* Dashboards executivos
 * KPI Monitoring
-* Automação de Relatórios
-* Visualização Estratégica
-
-Meu foco é unir tecnologia, análise de negócios e experiência visual para construir soluções corporativas modernas e orientadas à tomada de decisão.
+* Automação de relatórios
+* Visualização estratégica de dados
 
 ---
 
-# 🚀 Stack Tecnológica
+# 🚀 Tecnologias e Ferramentas
 
 <div align="center">
 
@@ -51,17 +50,17 @@ Meu foco é unir tecnologia, análise de negócios e experiência visual para co
 <br>
 <br>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-FACC15?style=for-the-badge&logo=powerbi&logoColor=000"/>
+<img src="https://img.shields.io/badge/SQL_Server-DC2626?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-166534?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -85,10 +84,10 @@ Meu foco é unir tecnologia, análise de negócios e experiência visual para co
 
 <div align="center">
 
-| 📈 Business Intelligence | 📊 Data Analytics    | ⚙️ ETL & Automation     |
-| ------------------------ | -------------------- | ----------------------- |
-| 📉 KPI Monitoring        | 🗄️ SQL Analytics    | 🚀 Executive Dashboards |
-| 🤖 Process Automation    | 📋 Executive Reports | 🧠 Strategic Insights   |
+| 📊 Análise de Dados       | 📈 Business Intelligence   | ⚙️ ETL e Automação       |
+| ------------------------- | -------------------------- | ------------------------ |
+| 📉 KPI Monitoring         | 🗄️ SQL Analytics          | 🚀 Dashboards Executivos |
+| 🤖 Automação de Processos | 📋 Relatórios Estratégicos | 🧠 Insights de Negócios  |
 
 </div>
 
@@ -96,17 +95,15 @@ Meu foco é unir tecnologia, análise de negócios e experiência visual para co
 
 # 🚀 Projetos em Destaque
 
-## 📈 Enterprise Sales Dashboard
+## 📈 Dashboard Executivo de Vendas
 
-<img src="https://media.giphy.com/media/3o7TKsQ8UQH6xX3Xzi/giphy.gif" width="100%"/>
+Dashboard desenvolvido para acompanhamento estratégico de indicadores comerciais e KPIs corporativos.
 
-Dashboard executivo focado em análise estratégica de vendas, KPIs empresariais e performance comercial.
-
-### Stack
+### Tecnologias
 
 `Power BI` `SQL Server` `DAX`
 
-### Recursos
+### Indicadores
 
 * Receita Total
 * Conversão Comercial
@@ -118,41 +115,37 @@ Dashboard executivo focado em análise estratégica de vendas, KPIs empresariais
 
 ---
 
-## ⚙️ Python ETL Pipeline
+## ⚙️ Pipeline ETL com Python
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%"/>
+Projeto voltado à automação de processos de extração, transformação e processamento de dados.
 
-Pipeline automatizado para extração, transformação e carga de dados corporativos.
-
-### Stack
+### Tecnologias
 
 `Python` `Pandas` `SQLAlchemy`
 
 ### Recursos
 
 * Data Cleaning
-* ETL Processing
-* SQL Integration
-* Automated Reports
+* Processamento ETL
+* Integração SQL
+* Automação de relatórios
 
 🔗 Em desenvolvimento
 
 ---
 
-## 🗄️ SQL Business Analytics
+## 🗄️ SQL Analytics para Negócios
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
-
-Projeto focado em SQL avançado aplicado à inteligência estratégica de negócios.
+Projeto focado em consultas SQL aplicadas à análise estratégica de dados empresariais.
 
 ### Recursos
 
 * CTEs
 * Window Functions
 * KPI Analysis
-* Executive Queries
+* Queries Analíticas
 
-### Stack
+### Tecnologias
 
 `SQL Server` `T-SQL`
 
@@ -160,16 +153,16 @@ Projeto focado em SQL avançado aplicado à inteligência estratégica de negóc
 
 ---
 
-# 🧠 Current Focus
+# 🎯 Foco Atual
 
 ```text
 ✔ Business Intelligence
-✔ Power BI Dashboards
+✔ Dashboards em Power BI
 ✔ SQL Analytics
-✔ Python Data Analysis
-✔ ETL & Automation
+✔ Python para Dados
+✔ ETL & Automação
+⬜ Engenharia de Dados
 ⬜ Cloud Analytics
-⬜ Data Engineering
 ⬜ Machine Learning
 ```
 
@@ -179,20 +172,16 @@ Projeto focado em SQL avançado aplicado à inteligência estratégica de negóc
 
 <div align="center">
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/alisson-rodrigues-dados/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="SEU_PORTFOLIO">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://id-preview--c912a9cc-36b8-4c90-af11-50ab9925d2f8.lovable.app/">
+<img src="https://img.shields.io/badge/PORTFÓLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/SEU_INSTAGRAM">
+<a href="https://instagram.com/nyxis">
 <img src="https://img.shields.io/badge/NYXIS-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -201,10 +190,6 @@ Projeto focado em SQL avançado aplicado à inteligência estratégica de negóc
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,50:0f172a,100:111827&text=Turning%20Data%20Into%20Strategic%20Decisions&fontSize=26&fontColor=38BDF8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:020617,50:0f172a,100:111827&text=Transformando%20Dados%20em%20Decis%C3%B5es%20Estrat%C3%A9gicas&fontSize=24&fontColor=38BDF8"/>
 
 </div>
